@@ -2,22 +2,6 @@
 
 Auto Claim for tomarket Telegram Bot
 
-# Table of Contents
-
-- [Tomarketod](#tomarketod)
-- [Table of Contents](#table-of-contents)
-- [Warning](#warning)
-- [Features](#features)
-- [Register](#register)
-- [How to Use](#how-to-use)
-  - [Windows](#windows)
-  - [Linux](#linux)
-  - [Termux](#termux)
-- [How to Get Data](#how-to-get-data)
-- [Run for 24/7](#run-for-247)
-- [Discussion](#discussion)
-- [Support](#support)
-- [Thank you \< 3](#thank-you--3)
 
 # Warning
 
@@ -139,19 +123,11 @@ Click the following url to register : https://t.me/Tomarket_ai_bot/app?startapp=
    python bot.py
    ```
 
-# How to Get Data
-
-How to enable dev tool on teelgram PC : [https://youtu.be/NYxHmck_GjE](https://youtu.be/NYxHmck_GjE)
-
-Watch the following video to get data [https://youtu.be/fdbdt-fEoVg](https://youtu.be/fdbdt-fEoVg)
 
 # Run for 24/7 
 
 You can run the script bot for 24/7 using vps / rdp. You can use `screen` application in vps linux to running the script bot in background process
 
-# Discussion
-
-If you have an question or something you can ask in here : [@sdsproject_chat](https://t.me/sdsproject_chat)
 
 # Support
 
