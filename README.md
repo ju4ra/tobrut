@@ -15,7 +15,7 @@ All Risks are borne by the user!
 
 # Register
 
-Click the following url to register : https://t.me/Tomarket_ai_bot/app?startapp=0000009G
+Click the following url to register : https://t.me/Tomarket_ai_bot/app?startapp=00000070
 
 # How to Use
 
