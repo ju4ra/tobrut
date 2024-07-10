@@ -34,7 +34,7 @@ Click the following url to register : https://t.me/Tomarket_ai_bot/app?startapp=
 
 3. goto tomarketod directory
    ```
-   cd tomarketod
+   cd tobrut
    ```
 
 4. install the require library
@@ -71,7 +71,7 @@ Click the following url to register : https://t.me/Tomarket_ai_bot/app?startapp=
 3. goto tomarketod directory
 
    ```shell
-   cd tomarketod
+   cd tobrut
    ```
 
 4. Install the require library
@@ -108,7 +108,7 @@ Click the following url to register : https://t.me/Tomarket_ai_bot/app?startapp=
 
 3. goto tomarketod directory
    ```
-   cd tomarketod
+   cd tobrut
    ```
 
 4. install the require library
