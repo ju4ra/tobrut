@@ -29,7 +29,7 @@ Click the following url to register : https://t.me/Tomarket_ai_bot/app?startapp=
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/tomarketod.git
+   git clone https://github.com/ju4ra/tobrut.git
    ```
 
 3. goto tomarketod directory
@@ -65,7 +65,7 @@ Click the following url to register : https://t.me/Tomarket_ai_bot/app?startapp=
 2. Clone this repository
    
    ```shell
-   git clone https://github.com/akasakaid/tomarketod.git
+   git clone https://github.com/ju4ra/tobrut.git
    ```
 
 3. goto tomarketod directory
@@ -103,7 +103,7 @@ Click the following url to register : https://t.me/Tomarket_ai_bot/app?startapp=
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/tomarketod.git
+   git clone https://github.com/ju4ra/tobrut.git
    ```
 
 3. goto tomarketod directory
